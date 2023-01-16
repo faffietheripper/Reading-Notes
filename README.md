@@ -17,3 +17,7 @@ Hi, my name is Tino 🙃. This is my first assignment for the full stack bootcam
 + Give yourself 15 minutes to try and find a solution to a problem
 + Seek feedback
 + Make mistakes and look at examples 
+
+## Things I want to know more about 
+
+I am curious to learn about how we can edit our pages so that they can be aesthethically pleasing as they would when you apply CSS to HTML code.
