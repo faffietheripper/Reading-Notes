@@ -1,5 +1,8 @@
 # Reading-Notes
 
+### Table of Contents 
+[Class 02](https://faffietheripper.github.io/Reading-Notes/#what-is-growth-mindset/class-02)
+
 ## Who is this ?
 Hi, my name is Tino 🙃. This is my first assignment for the full stack bootcamp where I became a wizard of code. 
 
