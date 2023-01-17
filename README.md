@@ -24,3 +24,12 @@ Hi, my name is Tino 🙃. This is my first assignment for the full stack bootcam
 ## Things I want to know more about 
 
 I am curious to learn about how we can edit our pages so that they can be aesthethically pleasing as they would when you apply CSS to HTML code.
+
+
+Create repo on github
+Added changes to the README.md
+Copied link from code button...use SHH not https
+Open terminal 
+CD;D into my projects folder
+Run the code
+Git clone git@github.com:faffietheripper/Reading-Notes.gitß
