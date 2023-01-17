@@ -1,7 +1,11 @@
 # Reading-Notes
 
 ### Table of Contents 
-[Class 02](https://faffietheripper.github.io/Reading-Notes/#what-is-growth-mindset/class-02)
+[Code-102-Reading-Notes] (https://github.com/faffietheripper/Reading-Notes/blob/e9b82a7fd04119f76199525e891d4ba3a21fd0d2/102-notes/read-01.md)
+[Code-201-Reading-Notes] (https://github.com/faffietheripper/Reading-Notes/blob/e9b82a7fd04119f76199525e891d4ba3a21fd0d2/201-notes/read-01.md)
+[Strech-Goals](https://github.com/faffietheripper/Reading-Notes/blob/e9b82a7fd04119f76199525e891d4ba3a21fd0d2/stretch-goals.md)
+
+
 
 ## Who is this ?
 Hi, my name is Tino 🙃. This is my first assignment for the full stack bootcamp where I became a wizard of code. 
